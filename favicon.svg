@@ -1,0 +1,10 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&amp;display=swap');
+    </style>
+  </defs>
+  <!-- Favicon cuadrado con bordes redondeados -->
+  <rect x="0" y="0" width="200" height="200" rx="40" fill="#2C1810"/>
+  <text x="100" y="112" text-anchor="middle" font-family="'DM Sans', sans-serif" font-weight="700" font-size="56" fill="#FDF6EC" letter-spacing="3">CB</text>
+</svg>
